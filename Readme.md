@@ -1,4 +1,4 @@
-Steps to approach 
+### Steps to approach 
 
 1. arr1 = ["a","b","c,"d","e","f","A","B","C","D","E"];
 2. arr2 = [1,2,3,4];
